@@ -1,6 +1,6 @@
 # 🔵 Curso de Dart
 
-## 001 - a, Expression and Arithmetic operations
+## 001 - Expression and Arithmetic operations
 
 > Declarações: declaração é uma instrução, é um comando com uma declaração que você basicamente diz ao computador para fazer algo.
 
