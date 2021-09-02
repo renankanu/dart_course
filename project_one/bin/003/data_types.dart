@@ -1,4 +1,3 @@
-// Object
 //! TYPE CONVERSION
 int age = 30;
 String ageString = age.toString();

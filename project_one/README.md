@@ -17,3 +17,7 @@
 ## 003 Data Types
 
 > Data Types: O tipo de dados é uma classificação de dados que diz ao compilador ou intérprete como o programador pretende usar os dados.
+
+## 004 Strings
+
+> Strings: São valores de dados compostos de sequências ordenadas de caracteres, como 'hello world'

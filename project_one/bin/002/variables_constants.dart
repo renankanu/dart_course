@@ -1,17 +1,17 @@
 void main() {
-  ///! VARIABLES
-  /// numbers
+  //! VARIABLES
+  // numbers
   int age = 18;
   double price = 12.7;
   num size = 32.1;
 
-  /// boolean
+  // boolean
   bool doILoveDart = true;
 
-  /// strings
+  // strings
   String name = "RenanKanu";
 
-  /// list
+  // list
   List prices = [12, 10, 32];
 
   /**
@@ -24,14 +24,14 @@ void main() {
    * - carácter especial como #, $ não é permitido 
   */
 
-  ///! TYPE SAFETY
+  //! TYPE SAFETY
   String myName = "RenanKanu";
   // myName = 3;
 
   num fee = 10;
   fee = 7.7;
 
-  ///Type inference
+  //Type inference
   var weight = 3.14;
   // weight = "car"; não aceita
 
