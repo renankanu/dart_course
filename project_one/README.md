@@ -25,3 +25,7 @@
 ## 005 Booleans
 
 > Booleans: O tipo de dados booleano suporta apenas dois valores - verdadeiro e falso. A palavra-chave bool é usada para representar um literal booleano.
+
+## 006 Control Flow
+
+> Control Flow: Nos permitem quebrar o fluxo de código, empregando tomada de decisão, loop, ramificação e permitindo que nosso programa execute condicionalmente blocos de código específicos. Como if / else, switch, while, do-while e for.
