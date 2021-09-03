@@ -20,4 +20,8 @@
 
 ## 004 Strings
 
-> Strings: São valores de dados compostos de sequências ordenadas de caracteres, como 'hello world'
+> Strings: São valores de dados compostos de sequências ordenadas de caracteres, como 'hello world'.
+
+## 005 Booleans
+
+> Booleans: O tipo de dados booleano suporta apenas dois valores - verdadeiro e falso. A palavra-chave bool é usada para representar um literal booleano.
