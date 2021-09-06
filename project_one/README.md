@@ -29,3 +29,11 @@
 ## 006 Control Flow
 
 > Control Flow: Nos permitem quebrar o fluxo de código, empregando tomada de decisão, loop, ramificação e permitindo que nosso programa execute condicionalmente blocos de código específicos. Como if / else, switch, while, do-while e for.
+
+## 007 Loops
+
+> Loops: As instruções de loop são usadas para executar o bloco de código repetidamente por um determinado número de vezes ou até que atenda a uma condição especificada.
+
+## 008 Functions
+
+> Functions: São módulos de código "auto-contidos" que realizam uma tarefa específica
