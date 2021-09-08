@@ -41,3 +41,7 @@
 ## 009 Anonymous Functions
 
 > Anonymous Functions: É como uma função nomeada, mas não tem nomes associados a ela. Uma função anônima pode ter zero ou mais parâmetros com anotações de tipo opcionais. Uma função anônima consiste em blocos de código autocontidos e que podem ser transmitidos em nosso código como um parâmetro de função.
+
+## 010 Arrow Functions
+
+> Arrow Functions: A função de seta nos permite criar uma função simplesmente configurada que consiste em uma única expressão. Podemos omitir as chaves e a palavra-chave return.
