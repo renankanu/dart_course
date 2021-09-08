@@ -37,3 +37,7 @@
 ## 008 Functions
 
 > Functions: São módulos de código "auto-contidos" que realizam uma tarefa específica
+
+## 009 Anonymous Functions
+
+> Anonymous Functions: É como uma função nomeada, mas não tem nomes associados a ela. Uma função anônima pode ter zero ou mais parâmetros com anotações de tipo opcionais. Uma função anônima consiste em blocos de código autocontidos e que podem ser transmitidos em nosso código como um parâmetro de função.
