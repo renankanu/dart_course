@@ -45,3 +45,7 @@
 ## 010 Arrow Functions
 
 > Arrow Functions: A função de seta nos permite criar uma função simplesmente configurada que consiste em uma única expressão. Podemos omitir as chaves e a palavra-chave return.
+
+## 011 Object Oriented Programming
+
+> Object Oriented Programming: é uma maneira específica de projetar um programa. Nos permite pensar nos dados em nosso programa em termos de objetos do mundo real, com propriedades e comportamentos.
