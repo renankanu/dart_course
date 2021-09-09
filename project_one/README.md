@@ -46,6 +46,10 @@
 
 > Arrow Functions: A função de seta nos permite criar uma função simplesmente configurada que consiste em uma única expressão. Podemos omitir as chaves e a palavra-chave return.
 
-## 011 Object Oriented Programming
+## 011 Object Oriented Programming(intro)
 
 > Object Oriented Programming: é uma maneira específica de projetar um programa. Nos permite pensar nos dados em nosso programa em termos de objetos do mundo real, com propriedades e comportamentos.
+
+## 012 Constructors
+
+> Constructors: São métodos que criam, ou construam, instâncias / objetos de uma classe.Os construtores têm o mesmo nome do nome da classe
